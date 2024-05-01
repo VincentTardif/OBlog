@@ -6,5 +6,3 @@ Mettre en place :
 - Un routage statique.
 - Des views dynamiques et partialisées.
 - Un routage paramétré.
-- Une intégration qui claque :star:.
-
