@@ -1,4 +1,4 @@
-# Excercie Javascript
+# Excercice Javascript
 
 ## Objectifs
 Mettre en place :
